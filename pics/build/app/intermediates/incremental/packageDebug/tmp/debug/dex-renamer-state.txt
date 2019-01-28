@@ -1,0 +1,4 @@
+#Mon Jan 28 00:58:40 IST 2019
+base.0=/var/flutter_apps/pics/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
